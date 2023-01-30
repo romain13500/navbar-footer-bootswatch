@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="./css/style.css"/>
     <link rel="stylesheet" href="./css/dragonball.view.css"/>
     <script src="https://kit.fontawesome.com/3dbff86484.js" crossorigin="anonymous"></script>
-    <title>heroes-collector</title>
+    <title>WEB SITE</title>
 </head>
 <body class="bg-secondary">
   <header>
